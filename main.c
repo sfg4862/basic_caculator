@@ -12,6 +12,9 @@ int main(void) {
 	scanf("%d %c %d", &num1, choose, &num2);
 	
 	system("cls");
-	printf("결과 :", add(num1, num2));
+	switch (x) {
+	case '+':
+		printf("결과 :", add(num1, num2)); break;
+	}
 
 }
