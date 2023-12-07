@@ -15,6 +15,8 @@ int main(void) {
 	switch (x) {
 	case '+':
 		printf("결과 :", add(num1, num2)); break;
+	case '-':
+		printf("결과 :", sub(num1, num2)); break;
 	}
 
 }
