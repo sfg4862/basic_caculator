@@ -1,3 +1,3 @@
-void sub(int x, int y) {
-	return x - y;
+void mul(int x, int y) {
+	return x * y;
 }
