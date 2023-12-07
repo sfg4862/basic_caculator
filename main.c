@@ -19,6 +19,8 @@ int main(void) {
 		printf("결과 :", sub(num1, num2)); break;
 	case '*':
 		printf("결과 :", mul(num1, num2)); break;
+	case '/':
+		printf("결과 :", div(num1, num2)); break;
 	}
 
 }
