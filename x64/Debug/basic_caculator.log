@@ -1,10 +1,8 @@
-﻿  add.c
-c1 : fatal  error C1083: 소스 파일을 열 수 없습니다. 'add.c': No such file or directory
+﻿  div.h
+C:\Users\Backdo\Desktop\basic_caculator\basic_caculator\div.h(1,1): warning C4828: 파일에 0x4b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
   main.c
-C:\Users\Backdo\Desktop\basic_caculator\basic_caculator\main.c(12,8): warning C4477: 'scanf' : 서식 문자열 '%c'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
-C:\Users\Backdo\Desktop\basic_caculator\basic_caculator\main.c(15,21): warning C4013: 'add'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\Backdo\Desktop\basic_caculator\basic_caculator\main.c(15,21): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-C:\Users\Backdo\Desktop\basic_caculator\basic_caculator\main.c(15,21): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
-C:\Users\Backdo\Desktop\basic_caculator\basic_caculator\main.c(7,7): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
-  코드를 생성하고 있습니다...
-C:\Users\Backdo\Desktop\basic_caculator\basic_caculator\main.c(12): error C4700: 초기화되지 않은 'choose' 지역 변수를 사용했습니다.
+C:\Users\Backdo\Desktop\basic_caculator\basic_caculator\add.h(1,1): warning C4828: 파일에 0x49 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\Backdo\Desktop\basic_caculator\basic_caculator\div.h(1,1): warning C4828: 파일에 0x4b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\Backdo\Desktop\basic_caculator\basic_caculator\sub.h(1,1): warning C4828: 파일에 0x48 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\Backdo\Desktop\basic_caculator\basic_caculator\mul.h(1,1): warning C4828: 파일에 0x48 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+  basic_caculator.vcxproj -> C:\Users\Backdo\Desktop\basic_caculator\x64\Debug\basic_caculator.exe

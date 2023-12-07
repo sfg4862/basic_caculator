@@ -1,4 +1,0 @@
-void mul(int x, int y) {
-	return x * y;
-}
-//°öÇÏ±â
